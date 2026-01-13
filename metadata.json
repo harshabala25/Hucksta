@@ -1,0 +1,7 @@
+{
+  "name": "Hucksta",
+  "description": "A vibrant and secure marketplace designed specifically for college students to buy and sell clothing, furniture, and other essentials within their campus community.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
